@@ -1,5 +1,12 @@
 import requests
 
+
+print('--------------------------')
+print('  CREATED BY DARKANGEL')
+print('--------------------------')
+print()
+
+
 class Search_subdomain:
     def __init__(self, subdoamins_file):
         self.open = open(subdoamins_file, 'r').read().splitlines()
