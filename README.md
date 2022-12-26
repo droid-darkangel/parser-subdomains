@@ -1,1 +1,3 @@
-# parser-subdomains
+used libraries:
+
+requests
